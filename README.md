@@ -1,4 +1,4 @@
-# DataConnect-Clean
+# Connecting data source and cleaning data
 This repository focuses on analyzing the factors that influence airline ticket prices. The project involves connecting and cleaning data to prepare it for visualization in Power BI. The ultimate goal is to develop a Power BI dashboard that dynamically updates with changing data, providing insights into how different variables impact ticket prices.
 
 ## Problem Statement
